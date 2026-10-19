@@ -1,0 +1,7 @@
+{
+  "name": "qmoosa-bancor-defi-analysis",
+  "version": "0.1.0",
+  "devDependencies": {
+    "hardhat": "^2.22.0"
+  }
+}
